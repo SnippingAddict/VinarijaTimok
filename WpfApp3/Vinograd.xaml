@@ -1,0 +1,61 @@
+﻿<UserControl x:Class="WpfApp3.Vinograd"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfApp3"
+             mc:Ignorable="d" 
+             d:DesignHeight="435" d:DesignWidth="850" Background="#FF0B021B">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="0.5*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.17*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="0.17*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="DataGridPeople" 
+                  ItemsSource="{Binding Path=lista}" IsReadOnly="True" AutoGenerateColumns="False" IsSynchronizedWithCurrentItem="True"
+                  ColumnWidth="*" Grid.Column="1" Grid.ColumnSpan="3" Grid.RowSpan="5" Margin="0,22,0,0" Background="#FF0B021B">
+
+            <DataGrid.Columns>
+
+                <DataGridTemplateColumn Header="Sorta" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding Sorta}"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTextColumn Header="Lokacija" Width="*" Binding="{Binding Lokacija}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Datum" Width="*" Binding="{Binding Datum}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Prevoznik" Width="*" Binding="{Binding Prevoznik}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Vinograd" Width="*" Binding="{Binding Vinograd}"></DataGridTextColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button x:Name="dodaj" Content="Dodaj" Grid.Column="1" HorizontalAlignment="Left" Margin="65,20,0,0" Grid.Row="5" BorderBrush="Transparent" VerticalAlignment="Top" Width="117" Height="47" Background="#FF6323BF" Click="dodaj_Click"/>
+        <Button x:Name="izmeni" Content="Izmeni" Grid.Column="2" HorizontalAlignment="Left" Margin="75,20,0,0" Grid.Row="5" VerticalAlignment="Top" Width="117" Height="47" Background="#FF6323BF" BorderBrush="Transparent" Click="izmeni_Click"/>
+        <Button x:Name="odustani" Content="Izbriši" Grid.Column="3" HorizontalAlignment="Left" Margin="80,20,0,0" Grid.Row="5" VerticalAlignment="Top" Width="117" Height="47" Background="#FFE80505" BorderBrush="Transparent" Click="odustani_Click"/>
+
+        <Grid Grid.Column="1" Margin="182,0,181,-15" Grid.RowSpan="7" Height="450" Width="400" Grid.ColumnSpan="3">
+            <local:Dodaj1 x:Name="Dodaj1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Visibility="Collapsed"/>
+        </Grid>
+
+
+    </Grid>
+</UserControl>

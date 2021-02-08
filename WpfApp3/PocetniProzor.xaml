@@ -1,0 +1,177 @@
+﻿<Window x:Class="WpfApp3.PocetniProzor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Medium"
+        TextElement.FontSize="14"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{x:Null}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        xmlns:system="clr-namespace:System;assembly=mscorlib"
+        KeyDown="Window_KeyDown"
+         
+
+        xmlns:local="clr-namespace:WpfApp3"
+        mc:Ignorable="d"
+        Title="PocetniProzor" MinHeight="550" MinWidth="850" Width="850" Height="550" ResizeMode="CanResizeWithGrip" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True" MouseLeftButtonDown="WindowMouseLeftButtonDown">
+
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Open" Executed="izvestaj_Open_Executed" />
+        <CommandBinding Command="ApplicationCommands.Save" Executed="izvestaj_Save_Executed" />
+    </Window.CommandBindings>
+
+    <materialDesign:DialogHost x:Name="MainDialogHost">
+        <Grid Background="#FFF0F0F0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="65"/>
+                <RowDefinition/>
+                <RowDefinition Height="172"/>
+                <RowDefinition Height="25"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="174*"/>
+                <ColumnDefinition Width="425*"/>
+                <ColumnDefinition Width="201*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="4" Grid.RowSpan="3">
+                <local:Izvestaj x:Name="Izvestaj" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Visibility="Collapsed" x:FieldModifier="public"/>
+            </Grid>
+            
+            <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.ColumnSpan="3" Margin="-6,7,-3,-2" Grid.RowSpan="3" Grid.Row="1">
+                <local:Vinograd x:Name="Vinograd" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Visibility="Collapsed"/>
+            </Grid>
+
+            <Grid Margin="0,0,0.438,-2" Grid.Row="1" Grid.ColumnSpan="3" Grid.RowSpan="3" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                <Image  x:Name="timokSlika" Source="Assets/timokSlika.png" Visibility="Visible"/>
+            </Grid>
+
+            <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.ColumnSpan="3" Margin="-6,7,-2.562,-2" Grid.RowSpan="3" Grid.Row="1">
+                <local:PSP x:Name="PSP" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Visibility="Collapsed"/>
+            </Grid>
+
+            <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.ColumnSpan="3" Margin="-6,7,-3,-2" Grid.RowSpan="3" Grid.Row="1">
+                <local:POP x:Name="POP" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Visibility="Collapsed"/>
+            </Grid>
+
+
+            <materialDesign:DrawerHost HorizontalAlignment="Stretch" VerticalAlignment="Stretch" BorderThickness="2" BorderBrush="{DynamicResource MaterialDesignDivider}" Grid.ColumnSpan="3" Margin="-6,-6,-3,-2"  Grid.RowSpan="4">
+                <materialDesign:DrawerHost.LeftDrawerContent>
+                    <StackPanel Margin="0" Background="#FF601DD4">
+                        <ToggleButton Style="{StaticResource MaterialDesignHamburgerToggleButton}" 
+                                  ToolTip="Zatvaranje trenutnog menija"
+                                  Command="{x:Static materialDesign:DrawerHost.CloseDrawerCommand}"
+                                  CommandParameter="{x:Static Dock.Left}"
+                                  DockPanel.Dock="Top"
+                                  HorizontalAlignment="Right" Margin="20"
+                                  IsChecked="{Binding ElementName=MenuToggleButton, Path=IsChecked, Mode=TwoWay}" />
+
+                        <Menu Background="#FF601DD4">
+                            <MenuItem Header="Početna" Width="230" Name="Home" Command="{x:Static materialDesign:DrawerHost.CloseDrawerCommand}" Click="Home_Click">
+                                <MenuItem.Icon>
+                                    <materialDesign:PackIcon Kind="Home"/>
+                                </MenuItem.Icon>
+                            </MenuItem>
+                        </Menu>
+                        <Menu Background="#FF601DD4">
+                            <MenuItem Header="Vinograd" Width="230" Name="Vineyard" Click="Vineyard_Click" HorizontalAlignment="Center" >
+                                <MenuItem.Icon>
+                                    <materialDesign:PackIcon Kind="ViewList"/>
+                                </MenuItem.Icon>
+                                <MenuItem x:Name="ekl" Header="E.K.L" Width="230" ToolTip="Eksterna Kontrolna Laboratorija">
+                                    <MenuItem x:Name="IzveštajNew" Header="Novi Izveštaj" Click="IzvestajOpen_Click" Command="{x:Static materialDesign:DrawerHost.CloseDrawerCommand}">
+                                        <MenuItem.Icon>
+                                            <materialDesign:PackIcon Kind="FileDocument" />
+                                        </MenuItem.Icon>
+                                    </MenuItem>
+                                    <MenuItem x:Name="IzvestajOpen" Header="Otvori.." Click="IzvestajOpen_Click" Command="ApplicationCommands.Open" >
+                                        <MenuItem.Icon>
+                                            <materialDesign:PackIcon Kind="OpenInApp" />
+                                        </MenuItem.Icon>
+                                    </MenuItem>
+                                    <MenuItem x:Name="IzvestajSave" Header="Sačuvaj kao.." Command="ApplicationCommands.Save" x:FieldModifier="public">
+                                        <MenuItem.Icon>
+                                            <materialDesign:PackIcon Kind="ContentSaveAll"  />
+                                        </MenuItem.Icon>
+                                    </MenuItem>
+                                    <MenuItem x:Name="IzvestajExit" Header="Izađi" Click="IzvestajExit_Click"  Command="{x:Static materialDesign:DrawerHost.CloseDrawerCommand}">
+                                        <MenuItem.Icon>
+                                            <materialDesign:PackIcon Kind="ExitToApp" />
+                                        </MenuItem.Icon>
+                                    </MenuItem>
+
+                                </MenuItem>
+                                <MenuItem x:Name="dostava" Header="Podaci o dostavi" Width="230" Command="{x:Static materialDesign:DrawerHost.CloseDrawerCommand}" Click="dostava_Click">
+
+                                </MenuItem >
+                            </MenuItem>
+                        </Menu>
+                        <Menu Background="#FF601DD4">
+                            <MenuItem x:Name="pvd" Header="P.V.D" ToolTip="Prozivodnja vina i destilacija" Width="230" HorizontalAlignment="Center">
+                                <MenuItem.Icon>
+                                    <materialDesign:PackIcon Kind="ViewList"/>
+                                </MenuItem.Icon>
+                                <MenuItem x:Name="psp" Header="P.S.P" ToolTip="Podac o snabdevu proizvodnje" Width="230" Command="{x:Static materialDesign:DrawerHost.CloseDrawerCommand}" Click="psp_Click">
+
+                                </MenuItem>
+                            </MenuItem>
+                        </Menu>
+                        <Menu Background="#FF601DD4">
+                            <MenuItem x:Name="poDru" Header="Podrum" Width="230">
+                                <MenuItem.Icon>
+                                    <materialDesign:PackIcon Kind="ViewList"/>
+                                </MenuItem.Icon>
+                                <MenuItem x:Name="ostvPr" Header="P.O.P" ToolTip="Podaci ostvarenje proizvodnje" Width="230" Command="{x:Static materialDesign:DrawerHost.CloseDrawerCommand}" Click="ostvPr_Click">
+
+                                </MenuItem>
+                            </MenuItem>
+                        </Menu>
+                        <Menu Background="#FF601DD4">
+                            <MenuItem Header="HACCP" ToolTip="HACCP sertifikat" Width="230" Command="{x:Static materialDesign:DrawerHost.CloseDrawerCommand}" Click="MenuItem_Click">
+                                <MenuItem.Icon>
+                                    <materialDesign:PackIcon Kind="ViewList"/>
+                                </MenuItem.Icon>
+                            </MenuItem>
+                        </Menu>
+                        <Menu Background="#FF601DD4">
+                            <MenuItem x:Name="Logistika" Header="Logistika" Width="230" Command="{x:Static materialDesign:DrawerHost.CloseDrawerCommand}" Click="Logistika_Click">
+                                <MenuItem.Icon>
+                                    <materialDesign:PackIcon Kind="ViewList"/>
+                                </MenuItem.Icon>
+                            </MenuItem>
+                        </Menu>
+                    </StackPanel>
+                </materialDesign:DrawerHost.LeftDrawerContent>
+
+                <Grid MinWidth="480" MinHeight="480">
+                    <DockPanel Grid.RowSpan="2" Grid.ColumnSpan="9">
+                        <materialDesign:ColorZone Padding="20" materialDesign:ShadowAssist.ShadowDepth="Depth3" Mode="Standard" DockPanel.Dock="Top" Background="#FF601DD4" BorderBrush="Transparent">
+                            <DockPanel Grid.RowSpan="2" Grid.ColumnSpan="9" Background="#FF601DD4">
+                                <ToggleButton Style="{StaticResource MaterialDesignHamburgerToggleButton}" IsChecked="False"
+                                  ToolTip="Odabir poslova"
+                                  x:Name="MenuToggleButton"
+                                  Command="{x:Static materialDesign:DrawerHost.OpenDrawerCommand}"
+                                  CommandParameter="{x:Static Dock.Left}" />
+                                <materialDesign:PopupBox DockPanel.Dock="Right" PlacementMode="BottomAndAlignRightEdges" StaysOpen="False" ToolTip="Više opcija" Background="#FF601DD4">
+                                    <StackPanel Width="150" Background="#FF601DD4">
+                                        <Button x:Name="pomoc" Content="Pomoc" Background="#FF601DD4" Click="pomoc_Click"/>
+                                        <Button Content="Odjavljivanje" Click="odjavi_Click" Background="#FF601DD4"/>
+                                        <Separator/>
+                                        <Button Content="Izlaz" Name="popUpIzlaz" Click="popUpIzlaz_Click" Background="#FF601DD4"/>
+                                    </StackPanel>
+                                </materialDesign:PopupBox>
+                                <TextBlock x:Name="header" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22">Vinarija Timok</TextBlock>
+
+                            </DockPanel>
+                        </materialDesign:ColorZone>
+                    </DockPanel>
+                </Grid>
+            </materialDesign:DrawerHost>
+        </Grid>
+    </materialDesign:DialogHost>
+</Window>

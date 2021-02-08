@@ -1,0 +1,229 @@
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\UserControl1.g.cs
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\UserControl1.baml
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\bin\Debug\ControlzEx.dll
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\bin\Debug\MahApps.Metro.dll
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\bin\Debug\ControlzEx.pdb
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\bin\Debug\MahApps.Metro.pdb
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\bin\Debug\MahApps.Metro.xml
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CopyComplete
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\LogIn.g.cs
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\LogIn.baml
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\bin\Debug\MaterialDesignColors.dll
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Nikola\source\repos\WpfApp3\WpfApp3\obj\Debug\App.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\bin\Debug\ControlzEx.dll
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\bin\Debug\MahApps.Metro.dll
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\bin\Debug\MaterialDesignColors.dll
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\bin\Debug\ControlzEx.pdb
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\bin\Debug\MahApps.Metro.pdb
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\bin\Debug\MahApps.Metro.xml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\LogIn.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\UserControl1.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\App.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\App.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\LogIn.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\UserControl1.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.csproj.CopyComplete
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.pdb
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\NeuspesanLogin.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\NeuspesanLogin.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\dobrodosli.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\dobrodosli.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\Vinograd.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\PocetniProzor.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\Vinograd.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\PocetniProzor.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\Dodaj1.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\Dodaj1.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\VinogradDodaj.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\VinogradDodaj.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\VinogradDodajWin.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\VinogradDodajWin.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\HACCPIzrada.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\HACCPIzradaWin.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\HACCPIzrada.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\HACCPIzradaWin.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\PSP.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\PSPDodaj.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\PSPIzmeni.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\PSP.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\PSPDodaj.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\PSPIzmeni.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\POP.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\POPDodaj.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\POP.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\POPDodaj.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\POPIzmeni.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\POPIzmeni.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\Izvestaj.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\Plan.g.cs
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\Izvestaj.baml
+C:\Users\Nikola\Desktop\vinarija-timok-master\WpfApp3\obj\Debug\Plan.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\WpfApp3.exe.config
+F:\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\WpfApp3.exe
+F:\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\WpfApp3.pdb
+F:\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\ControlzEx.dll
+F:\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\MahApps.Metro.dll
+F:\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\MaterialDesignColors.dll
+F:\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\System.Windows.Interactivity.dll
+F:\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\ControlzEx.pdb
+F:\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\MahApps.Metro.pdb
+F:\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\MahApps.Metro.xml
+F:\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\dobrodosli.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\Dodaj1.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\HACCPIzrada.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\HACCPIzradaWin.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\Izvestaj.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\LogIn.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\MainWindow.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\NeuspesanLogin.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\Plan.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\PocetniProzor.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\POP.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\POPDodaj.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\POPIzmeni.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\PSP.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\PSPDodaj.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\PSPIzmeni.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\UserControl1.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\Vinograd.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\VinogradDodaj.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\VinogradDodajWin.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\App.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\App.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\dobrodosli.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\Dodaj1.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\HACCPIzrada.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\HACCPIzradaWin.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\Izvestaj.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\LogIn.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\MainWindow.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\NeuspesanLogin.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\Plan.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\PocetniProzor.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\POP.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\POPDodaj.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\POPIzmeni.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\PSP.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\PSPDodaj.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\PSPIzmeni.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\UserControl1.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\Vinograd.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\VinogradDodaj.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\VinogradDodajWin.baml
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.g.resources
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.csproj.CopyComplete
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.exe
+F:\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.pdb
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\WpfApp3.exe.config
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\WpfApp3.exe
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\WpfApp3.pdb
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\ControlzEx.dll
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\MahApps.Metro.dll
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\MaterialDesignColors.dll
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\System.Windows.Interactivity.dll
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\ControlzEx.pdb
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\MahApps.Metro.pdb
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\MahApps.Metro.xml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\dobrodosli.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\Dodaj1.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\HACCPIzrada.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\HACCPIzradaWin.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\Izvestaj.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\LogIn.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\MainWindow.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\NeuspesanLogin.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\Plan.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\PocetniProzor.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\POP.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\POPDodaj.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\POPIzmeni.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\PSP.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\PSPDodaj.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\PSPIzmeni.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\UserControl1.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\Vinograd.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\VinogradDodaj.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\VinogradDodajWin.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\App.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\App.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\dobrodosli.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\Dodaj1.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\HACCPIzrada.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\HACCPIzradaWin.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\Izvestaj.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\LogIn.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\MainWindow.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\NeuspesanLogin.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\Plan.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\PocetniProzor.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\POP.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\POPDodaj.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\POPIzmeni.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\PSP.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\PSPDodaj.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\PSPIzmeni.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\UserControl1.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\Vinograd.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\VinogradDodaj.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\VinogradDodajWin.baml
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.g.resources
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.csproj.CopyComplete
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.exe
+F:\Razna dokumenta\Fakultet\vinarija-timok-master\WpfApp3\obj\Debug\WpfApp3.pdb
